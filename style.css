@@ -1,0 +1,36 @@
+ /* header part start  */
+
+*{
+    margin:  0 auto;
+}
+
+
+.menu{
+    color: black !important;
+}
+
+
+.menu:hover{
+
+    
+    color: blueviolet!important;
+    border-radius: 15px;
+
+ }
+
+.get-off{
+    padding: 5px 25px 5px 25px;
+    font-size: 20px;
+    border-radius: 50px;
+    background-color: blueviolet;
+    border: none;
+    margin-right: -150px;
+    color: white;
+    cursor: pointer;
+
+}
+.get-off:hover{
+    background-color: tomato;
+}
+
+/* header part end  */
